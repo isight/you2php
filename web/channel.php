@@ -8,6 +8,7 @@ $headtitle=$channel['items'][0]['snippet']['title'].'-'.SITE_NAME;
 include("./header.php"); 
 if(isset($_GET['pageToken'])){$ptk=$_GET["pageToken"];} else {$ptk='';}
 ?>
+<?php  echo APIKEY; ?>
 <div class="bg1" style="background: url(./thumbnail.php?type=banner&vid=<?php echo $channel['items'][0]['id'] ?>);background-repeat: no-repeat;background-position: center center;background-size: cover;" >
           <div class="touxiang">  
           <div id="bg2">
@@ -85,7 +86,6 @@ $(document).ready(function(){
     
     </div>
     </div>
- 
  
  </div>
   <?php
