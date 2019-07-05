@@ -3,7 +3,7 @@
             Copyright © 2015-<?php echo date('Y');?> All Rights Reserved </br>
         </p>
         <p  class="text-white  m-1 p-1 h6">
-            Powered by <a href="#" target="_blank" class="text-white font-italic"相关部门</a> 
+            Powered by <a href="#" target="_blank" class="text-white font-italic">相关部门</a> 
         </p>
     </footer>
   
