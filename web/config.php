@@ -1,6 +1,6 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', "AIzaSyBR-iZQ2J_4PNFlBkKr4Yx6h4V9gwAGgKc");
+define('APIKEY', "AIzaSyC3UPoBRCf8g1j6qEAaXGzjc-ogRd-w7r8");
 define('GJ_CODE', "US");
 define('SITE_NAME', "小兵看世界");
 define('TITLENAME', "From here to the world!");
